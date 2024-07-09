@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHallKata", "MontyHallKata\MontyHallKata.csproj", "{5BE25769-1514-43B2-ABED-8F974C910CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHall", "MontyHall\MontyHall.csproj", "{3F0AD4F9-8AC3-4E85-B38E-89BA6CFECE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE25769-1514-43B2-ABED-8F974C910CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE25769-1514-43B2-ABED-8F974C910CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE25769-1514-43B2-ABED-8F974C910CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE25769-1514-43B2-ABED-8F974C910CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0AD4F9-8AC3-4E85-B38E-89BA6CFECE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0AD4F9-8AC3-4E85-B38E-89BA6CFECE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0AD4F9-8AC3-4E85-B38E-89BA6CFECE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0AD4F9-8AC3-4E85-B38E-89BA6CFECE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
